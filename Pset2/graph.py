@@ -1,10 +1,3 @@
-# 6.0002 Problem Set 2 Spring 2022
-# Graph Optimization
-# Name: Olivia Dias
-# Collaborators: Xenia
-# Time: 10:00
-
-
 # This file contains a set of data structures to represent the graphs
 # that you will be using for this pset.
 
