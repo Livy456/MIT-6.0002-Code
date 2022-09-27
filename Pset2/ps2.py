@@ -1,10 +1,3 @@
-# 6.0002 Problem Set 2 Spring 2022
-# Graph Optimization
-# Name: Olivia Dias
-# Collaborators: Xenia and 6.0002 Office Hours
-# Time: 12:00
-
-#
 # Finding shortest paths to drive from home to work on a road network
 #
 import re # imports re to help with split the delimiters from the string
